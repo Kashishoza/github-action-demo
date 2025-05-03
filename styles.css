@@ -1,0 +1,23 @@
+/* styles.css */
+
+/* Smooth transitions for dark mode */
+html, body {
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* styles.css */
+
+/* Smooth transitions for dark mode */
+html, body {
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* Optional: Styling the dark mode */
+body.dark {
+  background-color: #121212;
+  color: #f0f0f0;
+}
+
+a.dark {
+  color: #4caf50;
+}
